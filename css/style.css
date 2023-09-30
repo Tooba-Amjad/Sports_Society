@@ -1,0 +1,10 @@
+.games {
+    height: max-content;
+    width:max-content;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 20px;
+    margin:20px;
+    display: inline-block;
+    /* overflow-wrap: normal; */
+}
